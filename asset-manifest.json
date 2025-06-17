@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/New-StreamMate-Web/static/css/main.a14685e3.css",
+    "main.js": "/New-StreamMate-Web/static/js/main.41e7c0c5.js",
+    "index.html": "/New-StreamMate-Web/index.html",
+    "main.a14685e3.css.map": "/New-StreamMate-Web/static/css/main.a14685e3.css.map",
+    "main.41e7c0c5.js.map": "/New-StreamMate-Web/static/js/main.41e7c0c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14685e3.css",
+    "static/js/main.41e7c0c5.js"
+  ]
+}
